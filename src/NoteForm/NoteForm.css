@@ -22,8 +22,8 @@
 }
 
 .noteInput{
-    width: 800px;
-    min-width: 800px;
+    width: auto;
+    min-width: auto;
     font-size: 1.3em;
     padding-left: 20px;
     border-top-left-radius: 4px;
