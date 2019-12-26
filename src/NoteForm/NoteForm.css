@@ -39,3 +39,15 @@
     color: #111;
     transition: 0.2s ease-in;
 }
+
+@media only screen and (max-width: 420px) {
+    .noteInput {
+        margin-left: auto;
+        width: 55%;
+    }
+
+    .notesHeader {
+        min-height: 20%;
+    }
+  
+  }
